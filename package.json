@@ -1,0 +1,12 @@
+{
+  "name": "cryptography-assignment--3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "elgamal.js",
+  "scripts": {
+    "elgamal": "node elgamal.js",
+    "four":"node fourthProblem.js"
+  },
+  "author": "Eashwar Madhavan Perumal",
+  "license": "ISC"
+}
